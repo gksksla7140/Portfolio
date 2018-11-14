@@ -2664,3 +2664,6 @@ input, select, textarea {
 		z-index: 4;
 		border-radius: 4px;
 	}
+	.center {
+		align-self: center;
+	}
